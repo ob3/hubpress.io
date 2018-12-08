@@ -5,12 +5,12 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   },
   "urls": {
     "site": "https://ob3.github.io",
     "hubpress": "https://ob3.github.io",
-    "theme": "//ob3.github.io/themes/ghostinum",
+    "theme": "//ob3.github.io/themes/casper",
     "images": "https://ob3.github.io/images"
   },
   "initialisationConfigComponent": {
