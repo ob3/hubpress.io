@@ -10,5 +10,25 @@
   "socialnetwork": {},
   "theme": {
     "name": "ghostinum"
+  },
+  "urls": {
+    "site": "https://ob3.github.io",
+    "hubpress": "https://ob3.github.io",
+    "theme": "//ob3.github.io/themes/ghostinum",
+    "images": "https://ob3.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
