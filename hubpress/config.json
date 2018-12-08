@@ -4,11 +4,7 @@
     "repositoryName": "ob3.github.io",
     "branch": "master"
   },
-  "site": {
-    "title": ""
-  },
-  "socialnetwork": {},
   "theme": {
-    "name": "ghostinum"
+    "name": "Casper"
   }
 }
